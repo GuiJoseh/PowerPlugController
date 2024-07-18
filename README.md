@@ -9,7 +9,7 @@ To compile this project, you need to install SDCC and run the .bat file.
 The .hex file will be created, and you can write this on the microcontroller AT89C51 or test it in some simulation program like Proteus.  
 This project was developed on Proteus, so you can find the Proteus file with the project.  
 The components used were:  
-- 2x Microcontroller AT89C51  
+- 1x Microcontroller AT89C51  
 - 1x sensor RTC DS1307  
 - 3x Commons buttons  
 - 3x 10K resistors  
